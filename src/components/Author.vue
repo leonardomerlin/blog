@@ -8,7 +8,7 @@
 		</h1>
 
 		<p class="author__intro">
-			A web developer who likes to learn and share.
+			A web developer who likes to share and learn.
 		</p>
 
 		<p class="author__links">

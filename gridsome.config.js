@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Leonardo Merlin',
-  siteDescription: 'Leonardo Merlin is a web developer who likes to share opinions and help others.',
+  siteDescription: 'Leonardo Merlin is a web developer who likes to share and learn.',
   siteUrl: 'https://leonardomerlin.github.io',
   pathPrefix: '/blog',
 
