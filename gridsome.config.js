@@ -39,10 +39,16 @@ module.exports = {
                 id: 'UA-35971148-1',
             },
         },
+        {
+            use: `gridsome-plugin-netlify-cms`,
+            options: {
+                publicPath: `/admin`,
+            },
+        },
     ],
 
     transformers: {
-        //Add markdown support to all file-system sources
+        // Add markdown support to all file-system sources
         remark: {
             externalLinksTarget: '_blank',
             externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
